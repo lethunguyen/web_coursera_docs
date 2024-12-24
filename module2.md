@@ -1,4 +1,4 @@
-# Review
+# Review Module 2 <img src="demo/nglthu.png" align="right">
 
 ```
 Route
@@ -90,3 +90,4 @@ Route::post('/book',[BookController::class, 'sendData']);
 
 # Question /Answers
 
+# Hanoi, 2024 <img src="demo/logo.png" align="right">
