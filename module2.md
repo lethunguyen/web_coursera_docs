@@ -83,3 +83,8 @@ Route::get('/bookDisplay',[BookController::class, 'index'] )->name('book');
 Route::post('/book',[BookController::class, 'sendData']);
 ```
 # POST /GET Request and Response
+
+<img src="demo/postRequest1.png">
+
+<img src="demo/postRequest2.png">
+
