@@ -95,11 +95,12 @@ Understanding POST GET Request and Response (HTTP)
 ## Testing POST GET Request Response
 
 + Using Postman
+  
   <img src="demo/postman.png">
 
 + Talend API Tester
 
-    <img src="demo/talend.png">
+  <img src="demo/talend.png">
 
 # Question /Answers (Câu hỏi và câu trả lời)
 
