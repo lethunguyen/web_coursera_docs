@@ -36,6 +36,7 @@ class StudentController extends Controller
 ```
 ## View
 
+```
 <html>
 
   <body>
@@ -71,7 +72,7 @@ class StudentController extends Controller
   </body>
 </html>
 
-
+```
 ## Route
 
 ```
