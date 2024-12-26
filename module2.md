@@ -1,4 +1,4 @@
-# Review Module 2 <img src="demo/nglthu.png" align="right">
+# Review Module 2 (Ôn tập nội dung học tuần thứ 3) <img src="demo/nglthu.png" align="right">
 
 ```
 Route
@@ -84,10 +84,23 @@ Route::post('/book',[BookController::class, 'sendData']);
 ```
 # POST /GET Request and Response
 
+Understanding POST GET Request and Response (HTTP)
+
+
+
 <img src="demo/postRequest1.png">
 
 <img src="demo/postRequest2.png">
 
-# Question /Answers
+## Testing POST GET Request Response
+
++ Using Postman
+  <img src="demo/postman.png">
+
++ Talend API Tester
+
+    <img src="demo/talend.png">
+
+# Question /Answers (Câu hỏi và câu trả lời)
 
 # Hanoi, 2024 <img src="demo/logo.png" align="right">
